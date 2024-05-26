@@ -1,0 +1,5 @@
+What makes training neural networks trickier is that an universal approximator will always make the best effort to solve the problem. This means that in many cases your code will appear correct, but most errors will be silent and only manifest as a low learning rate. This is a very well-known problem, and even the state-of-the-art networks released by deep learning masterminds such as Gemma from Google always ship with minor errors that the community realise later on.
+
+This is the reason why we have to inspect every single piece of the network, pay attention and visualize as much as possible, and understand the very principles behind the technologies we are using. We have REALLY throrough, more than inspecting a bomb detonator. And probably we'll still introduce some errors.
+
+Which is why it's important to know a few tools at our disposal to test the networks. We'll start from the example in the MLP notebook, and use the most typical tools for inspection. Note that this inspection is still very generic, as we're only used to the most basic networks.
