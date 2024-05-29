@@ -8,6 +8,8 @@ Pending topics:
 - [ ] Optimization Algorithms
 - [ ] Activation functions
 - [ ] Long Short-Term Memory (LSTM)
+- [ ] Attention Mechanism
+- [ ] Transformers
 - [ ] Autoencoders
 - [ ] Reinforcement Learning
 - [ ] Hyperparameter Tuning
@@ -15,3 +17,4 @@ Pending topics:
 - [ ] Generative Adversarial Networks (GANs)
 - [ ] Model Deployment
 - [ ] Alignment
+- [ ] Graph Neural Networks
