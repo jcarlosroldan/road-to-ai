@@ -7,9 +7,6 @@ Some of the concepts like derivatives might look too obvious, but if starting fr
 Pending topics:
 - [ ] Optimization Algorithms
 - [ ] Activation functions
-- [ ] Long Short-Term Memory (LSTM)
-- [ ] Attention Mechanism
-- [ ] Transformers
 - [ ] Autoencoders
 - [ ] Reinforcement Learning
 - [ ] Hyperparameter Tuning
